@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "img": "https://picsum.photos/id/237/340/100",
+      "name": "Apple",
+      "price": "1.99",
+      "attribution": "visualhunt",
+      "url": "#",
+      "class": "carde"
+    },
+    {
+      "id": 2,
+      "img": "https://picsum.photos/id/2/340/100",
+      "name": "Orange",
+      "attribution": "visualhunt",
+      "price": "0.99",
+      "url": "#",
+      "class": "carde"
+    },
+    {
+      "id": 3,
+      "img": "https://picsum.photos/id/20/340/100",
+      "name": "Pear",
+      "attribution": "visualhunt",
+      "price": "1.50",
+      "url": "#",
+      "class": "carde"
+    },
+    {
+      "id": 4,
+      "img": "https://picsum.photos/id/46/340/100",
+      "name": "Banana",
+      "attribution": "pixabay",
+      "price": "1.50",
+      "url": "#",
+      "class": "carde"
+    },
+    {
+      "id": 5,
+      "img": "https://picsum.photos/id/5/340/100",
+      "name": "Watermelon",
+      "attribution": "pixabay",
+      "price": "4.50",
+      "url": "#",
+      "class": "carde"
+    },
+    {
+      "id": 6,
+      "img": "https://picsum.photos/id/19/340/100",
+      "name": "Melon",
+      "attribution": "pixabay",
+      "price": "3.50",
+      "url": "#",
+      "class": "carde"
+    }
+  ]
+}
